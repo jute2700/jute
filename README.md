@@ -11,4 +11,4 @@
 ## Här nedan klonas mitt repository till min dator 
 ## För att skapa kodblocket så används tre snea tecken innan 
 ```bash 
-git clone https://github.com/jute2700/README.git  
+git clone https://github.com/jute2700/jute.git  
